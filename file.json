@@ -1,0 +1,24 @@
+{
+    "chips": [
+        {
+            "id": 1,
+            "name": "Doritos",
+            "manufacturer": "Simba"
+        },
+        {
+            "id": 2,
+            "name": "Crack a Snack",
+            "manufacturer": "IQ Foods"
+        },
+        {
+            "id": 3,
+            "name": "Go Slos",
+            "manufacturer": "Truda"
+        },
+        {
+            "id": 4,
+            "name": "Fritos",
+            "manufacturer": "Simba"
+        },
+    ]
+}
